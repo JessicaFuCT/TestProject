@@ -4,20 +4,20 @@
         "year": "2011", 
         "posters": {
             "thumbnail": "http://i.imgur.com/UePbdph.jpg"
-        },
+        }
     },
     {
         "title": "Title2", 
         "year": "2012", 
         "posters": {
             "thumbnail": "http://i.imgur.com/UePbdph.jpg"
-        },
+        }
     },
     {
         "title": "Title3", 
         "year": "2013", 
         "posters": {
             "thumbnail": "http://i.imgur.com/UePbdph.jpg"
-        },
+        }
     }
 ]
